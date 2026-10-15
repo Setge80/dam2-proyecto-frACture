@@ -1,0 +1,25 @@
+\# Visual Studio / .NET 10 / C# / WPF 
+.vs/ 
+[Bb]in/ 
+[Oo]bj/ 
+\*.user 
+\*.suo 
+\*.userosscache 
+\*.sln.docstates 
+
+# Android Studio / Kotlin / Mobile 
+.gradle/ 
+build/ 
+local.properties 
+\*.apk 
+\*.aab 
+
+# Node / Herramientas web / Figma 
+
+node\_modules/ 
+dist/ 
+
+# Archivos temporales del sistema 
+.DS\_Store 
+Thumbs.db 
+\*.tmp
