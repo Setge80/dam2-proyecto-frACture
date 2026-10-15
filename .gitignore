@@ -1,25 +1,31 @@
-\# Visual Studio / .NET 10 / C# / WPF 
-.vs/ 
-[Bb]in/ 
-[Oo]bj/ 
-\*.user 
-\*.suo 
-\*.userosscache 
-\*.sln.docstates 
-
-# Android Studio / Kotlin / Mobile 
-.gradle/ 
-build/ 
-local.properties 
-\*.apk 
-\*.aab 
-
-# Node / Herramientas web / Figma 
-
-node\_modules/ 
-dist/ 
-
-# Archivos temporales del sistema 
-.DS\_Store 
-Thumbs.db 
-\*.tmp
+# =======================================================
+# .gitignore para Proyecto Intermodular DAM
+# =======================================================
+# Visual Studio / .NET 10 / C# / WPF
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+# Python / Odoo / Backend
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+*.env
+# Android Studio / Mobile
+.gradle/
+build/
+local.properties
+*.apk
+*.aab
+# Node / Herramientas web / Marp
+node_modules/
+dist/
+# Documentos temporales y del sistema
+.DS_Store
+Thumbs.db
+*.tmp
