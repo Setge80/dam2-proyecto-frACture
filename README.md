@@ -6,4 +6,4 @@ Plataforma de gestión multiplataforma (Escritorio PC + Móvil Android + API RES
 - Gianna Florencia Suarez
 - Sergio Jávega Porcel
   
-## Vídeo de Presentación - Enlace: https://youtu.be/xxx
+## Vídeo de Presentación - Enlace: https://drive.google.com/file/d/1d483-EodqM5Pp_pKBH2O9AoiVlNNVjAu/view?usp=sharing
